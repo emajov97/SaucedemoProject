@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="706c1c32-e5e0-4a88-bb44-1e86b663d6a1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2i0tVlkhuwU2lzAyoqfjsooeCrH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "TestNG.BurgerMenuTest.executor": "Run",
+    "TestNG.BurgerMenuTest.testBurgerMenuNavigationToLogout.executor": "Run",
+    "TestNG.BurgerMenuTest.testBurgerMenuNavigationToResetAppState.executor": "Run",
+    "TestNG.BurgerMenuTest.testViewMenuAfterClickingBurgerMenu.executor": "Run",
+    "TestNG.CheckoutTest.executor": "Run",
+    "TestNG.CheckoutTest.testCheckoutWithoutEnteringShippingInformation.executor": "Run",
+    "TestNG.CheckoutTest.testReturnToInventoryPage.executor": "Run",
+    "TestNG.CheckoutTest.testSuccessfulCheckoutWithValidInformation.executor": "Run",
+    "TestNG.CheckoutTest.testSuccessfulClickOnCancelButton.executor": "Run",
+    "TestNG.CheckoutTest.testSuccessfulClickOnCheckoutButton.executor": "Run",
+    "TestNG.FooterTest.executor": "Run",
+    "TestNG.FooterTest.testFooterNavigation.executor": "Run",
+    "TestNG.FooterTest.testLinkedInLinkNavigation.executor": "Run",
+    "TestNG.FooterTest.testTwitterLinkNavigation.executor": "Run",
+    "TestNG.HamburgerMenuTest.testHamburherMenuNavigationToAllItems.executor": "Run",
+    "TestNG.HamburgerMenuTest.testNavigateToAbout.executor": "Run",
+    "TestNG.InventoryTest.executor": "Run",
+    "TestNG.InventoryTest.testAddMultipleProductsToCart.executor": "Run",
+    "TestNG.InventoryTest.testAddSingleProductToCart.executor": "Run",
+    "TestNG.InventoryTest.testContinueShopping.executor": "Run",
+    "TestNG.InventoryTest.testContinueShoppingAfterClickingTheCart.executor": "Run",
+    "TestNG.InventoryTest.testRemoveProductFromCart.executor": "Run",
+    "TestNG.InventoryTest.testViewProducts.executor": "Run",
+    "TestNG.InventoryTest.testViewProductsInCart.executor": "Run",
+    "TestNG.LoginTest.ValidLoginTest.executor": "Run",
+    "TestNG.LoginTest.executor": "Run",
+    "TestNG.LoginTest.testEmptyCredentials.executor": "Run",
+    "TestNG.LoginTest.testEmptyPassword.executor": "Run",
+    "TestNG.LoginTest.testEmptyUsername.executor": "Run",
+    "TestNG.LoginTest.testInvalidCredentials.executor": "Run",
+    "TestNG.LoginTest.testInvalidPassword.executor": "Run",
+    "TestNG.LoginTest.testInvalidUsername.executor": "Run",
+    "TestNG.LoginTest.testValidLoginTest.executor": "Run",
+    "TestNG.SortingMenuTest.executor": "Run",
+    "TestNG.Tests.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="TestNG.Tests">
+    <configuration name="InventoryTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SaucedemoProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.InventoryTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryTest.testContinueShoppingAfterClickingTheCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SaucedemoProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.InventoryTest" />
+      <option name="METHOD_NAME" value="testContinueShoppingAfterClickingTheCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InventoryTest.testRemoveProductFromCart" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SaucedemoProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.InventoryTest" />
+      <option name="METHOD_NAME" value="testRemoveProductFromCart" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SortingMenuTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SaucedemoProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="MAIN_CLASS_NAME" value="Tests.SortingMenuTest" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Tests" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="SaucedemoProject" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="Tests" />
+      <option name="TEST_OBJECT" value="PACKAGE" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.Tests" />
+        <item itemvalue="TestNG.InventoryTest" />
+        <item itemvalue="TestNG.InventoryTest.testContinueShoppingAfterClickingTheCart" />
+        <item itemvalue="TestNG.InventoryTest.testRemoveProductFromCart" />
+        <item itemvalue="TestNG.SortingMenuTest" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="706c1c32-e5e0-4a88-bb44-1e86b663d6a1" name="Changes" comment="" />
+      <created>1718639350596</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1718639350596</updated>
+    </task>
+    <servers />
+  </component>
+</project>
